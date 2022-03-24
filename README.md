@@ -8,15 +8,21 @@ View [here](https://normanrichardson.github.io/FCC-Landing-Page/).
 
 The project requirements can be tested by selecting the "hamburger menu" in the top left and selecting the "product landing page" option.
 
+### Project Improvements
+
+* Deployed to on Github pages [here](https://normanrichardson.github.io/FCC-Landing-Page/).
+
 ### Usage
 1. Clone the Repository
-> git clone https://github.com/normanrichardson/FCC-Landing-Page.git
-
-> cd FCC-Landing-Page
+    ```
+    $ git clone https://github.com/normanrichardson/FCC-Landing-Page.git
+    $ cd FCC-Landing-Page
+    ```
 
 2. Run a local server
 
-For example:
-> python -m http.server
-
-View on `localhost:8000`
+    For example:
+    ```
+    $ python -m http.server
+    ```
+    View on `localhost:8000`
